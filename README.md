@@ -10,3 +10,10 @@
 
 ## Урок HEAD
 HEAD это файл в .git где храниться ссылка/хеш последнего commit
+
+## Жизненный цикл статусов
+```aidl
+untracked -- git add --> staged
+staged -->
+sdfdsf
+```
