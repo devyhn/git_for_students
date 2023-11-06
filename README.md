@@ -14,6 +14,5 @@ HEAD это файл в .git где храниться ссылка/хеш по�
 ## Жизненный цикл статусов
 ```aidl
 untracked -- git add --> staged
-staged -->
-sdfdsf
+staged --> git commit --> tracked/commited; 
 ```
