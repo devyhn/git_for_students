@@ -16,6 +16,7 @@ HEAD это файл в .git где храниться ссылка/хеш по�
 untracked -- git add --> staged
 staged --> git commit --> tracked/commited;  
 ```
+te
 
 ## Как исправить коммит
 
